@@ -43,7 +43,7 @@ To use the Gemma 4 model locally, follow these steps:
 1. Ensure the Ollama server is running.
 2. Pull and run the Gemma 4 model:
 ```bash
-ollama run gemma4
+ollama launch claude --model gemma4:31b-cloud
 ```
 
 ---
