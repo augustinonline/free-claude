@@ -1,4 +1,4 @@
-# Free Claude
+# Free Claude-Code
 
 A guide to running local LLMs (like Gemma 4) and using Claude Code on your machine.
 
